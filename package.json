@@ -1,0 +1,29 @@
+{
+  "name": "github-user_profile-pdf_creator",
+  "version": "1.0.0",
+  "description": "a pdf generator for gitHub profiles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eduardo-YGIAH/gitHub-user_profile-pdf_creator.git"
+  },
+  "keywords": [
+    "pdf-generator"
+  ],
+  "author": "Eduardo Neto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eduardo-YGIAH/gitHub-user_profile-pdf_creator/issues"
+  },
+  "homepage": "https://github.com/Eduardo-YGIAH/gitHub-user_profile-pdf_creator#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "fs-extra": "^8.1.0",
+    "handlebars": "^4.5.3",
+    "node-fetch": "^2.6.0",
+    "puppeteer": "^2.0.0"
+  }
+}

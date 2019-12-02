@@ -328,3 +328,8 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+# GUIDELINE FILES TO BUILT PROJECT
+Week-09-NodeJS_02-Homework_Develop_index.js
+
+Week-09-NodeJS_02-Homework_Develop_generateHTML.js

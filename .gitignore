@@ -333,3 +333,9 @@ ASALocalRun/
 Week-09-NodeJS_02-Homework_Develop_index.js
 
 Week-09-NodeJS_02-Homework_Develop_generateHTML.js
+
+#NODE_MODULES
+node_modules/
+
+#ENVIRONMENT VARAIBLES
+.env
